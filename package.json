@@ -1,0 +1,14 @@
+{
+    "name":"elasticio-utils",
+    "description":"elastic.io utilities",
+    "version":"0.0.1",
+    "engines":{
+        "node":"0.8.7",
+        "npm":"1.1.49"
+    },
+
+    "dependencies":{
+       "winston": "0.6.2",
+        "winston-papertrail": "0.0.6"
+    }
+}
