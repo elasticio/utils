@@ -2,6 +2,8 @@
     "name":"elasticio-utils",
     "description":"elastic.io utilities",
     "version":"0.0.1",
+    "homepage": "http://elastic.io",
+    "author": "elastic.io GmbH <info@elastic.io>",
     "engines":{
         "node":"0.8.7",
         "npm":"1.1.49"
